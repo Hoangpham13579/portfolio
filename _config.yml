@@ -1,5 +1,5 @@
 title: Pham Viet Hoang
-top left circle image: /assets/hoang_circle.png
-# below description: text below image
+top left circle image: ./assets/hoang_circle.jpg
+below description: Student Researcher
 show_downloads: true
 theme: jekyll-theme-minimal

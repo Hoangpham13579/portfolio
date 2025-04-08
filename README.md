@@ -42,8 +42,8 @@
 ([Publication](https://link.springer.com/chapter/10.1007/978-3-031-53963-3_25)) ([Github](https://github.com/Hoangpham13579/end_to_end_anomaly_detection))
 
 <div style="text-align: center;">
-  <img src="assets/anomaly_detection_cover_box.png" height="200" style="display: inline-block;"/>
-  <img src="assets/anomaly_detection_system_workflow.png" height="200" style="display: inline-block;"/>
+  <img src="assets/anomaly_detection_cover_box.png" height="312" style="display: inline-block;"/>
+  <img src="assets/anomaly_detection_system_workflow.png" height="312" style="display: inline-block;"/>
 </div>
 
 - Developed and deployed an AI-based anomaly detection system on Jetson edge devices, achieving 84.39% AUC on UCF-Crime and 88.4% AUC on UIT_VNAnomaly datasets.
@@ -65,8 +65,8 @@
 ([Publication](https://ieeexplore.ieee.org/document/10013864))
 
 <div style="text-align: center;">
-  <img src="assets/vehical_tracking_overview.png" height="200" style="display: inline-block;"/>
-  <img src="assets/PM2_5_from_sensor_and_vehical_counting.png" height="200" style="display: inline-block;"/>
+  <img src="assets/vehical_tracking_overview.png" height="312" style="display: inline-block;"/>
+  <img src="assets/PM2_5_from_sensor_and_vehical_counting.png" height="312" style="display: inline-block;"/>
 </div>
 
 - Benchmarked object detection models YOLOv5, SSD, Mask-RCNN for vehicle counting to estimate PM2.5 level from specific formula. 
