@@ -1,4 +1,4 @@
-# Student Researcher 
+# AI Researcher 
 
 ## Technical Skills
 - **Programming**: Python, SQL, Matlab, C/C++
