@@ -29,7 +29,7 @@
 (On Progress)
 
 <div style="text-align: center;">
-  <img src="assets/neural_calibration_dengue.png" height="412" style="display: inline-block;"/>
+  <img src="assets/neural_calibration_dengue.png" style="display: inline-block;"/>
 </div>
 
 - Developed and deployed Neural Network (NN) with multi-agents system to calibrate parameters for Ordinary Differential Equations (ODE) dengue modeling.
