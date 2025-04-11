@@ -61,6 +61,17 @@
 
 **Key technologies:** UNet (segment), MSNet (segment), Yolov7 (bbox), Active Learning (for segment/bbox data labeling), multi-spectral processing
 
+### Self-driving car simulation using behaviour cloning
+([Github](https://github.com/Hoangpham13579/self-driving-car-simulator))
+
+<img src="./assets/demo_final_trim.gif" alt="drawing" width="" height=""/>
+
+- Use ROS 1 Noetic, Gazebo simulator for demo and testing the self-driving algorithm
+- Autonomously drive on the designated map (highway, curves, intersection)
+- Apply "Behavioral clonning", taking input from camera and output steering angle and speed
+
+**Key technologies:** ROS 1 Noetic, Gazebo, behaviour cloning
+
 ### PM2.5 Concentration Prediction Using Traffic Surveillance
 ([Publication](https://ieeexplore.ieee.org/document/10013864))
 
