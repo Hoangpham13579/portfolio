@@ -9,11 +9,11 @@
 - **Project Management**: Agile (Scrum), Technical Writing, Publication
 
 ## Education
-- M.S , Computational Engineering | Vietnamese German University, Vietnam (_Oct 2025_)
+- M.S , Computational Engineering | Vietnamese German University, Vietnam (_Oct 2026_)
 - B.S., Computer Science and Engineering | Vietnamese German Univeristy, Vietnam (_Juli 2023_)
 
 ## Work Experience
-**Student Researcher @ Vietnamese German University (January 2023 - Current)**
+**AI Researcher @ Vietnamese German University (January 2023 - Current)**
 - Conduct literature reviews and implement state-of-the-art academic papers to support ongoing research projects.
 - Collect, organize, and analyze data using various statistical methods to draw insights and support research findings.
 - Assist in project management by coordinating research activities, preparing presentations, and maintaining accurate records of research progress.
