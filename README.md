@@ -54,7 +54,7 @@
 
 ### Water Body Detection Using UAV Multispectral Imagery
 ([Under Review](https://www.researchsquare.com/article/rs-3950831/v1)) ([Github](https://github.com/Hoangpham13579/WaterMAI))
-![Water MAI general process](./assets/water_mai_general_process.png)
+![Water MAI general process](./assets/waterMAI_general_architecture.png)
 - Collect and construct the high-quality WaterMAI dataset (880 images), optimized for small and medium-sized UAV-based water body detection.
 - Evaluated deep learning models UNet, MSNet, Yolov7, Yolov7x using bounding box and segmentation approaches, achieving Dice scores > 0.92
 - Optimized spectral input combinations (RGB, NIR, NDWI) to enhance model accuracy for environmental monitoring.
