@@ -14,9 +14,10 @@
 
 ## Work Experience
 **AI Researcher @ Vietnamese German University (January 2023 - Current)**
-- Conduct literature reviews and implement state-of-the-art academic papers to support ongoing research projects.
-- Collect, organize, and analyze data using various statistical methods to draw insights and support research findings.
-- Assist in project management by coordinating research activities, preparing presentations, and maintaining accurate records of research progress.
+- Conduct comprehensive literature reviews to identify and implement state-of-the-art ML methods for real-world applications, directly aligning with the role's requirement for core ML expertise.
+- Design and implement data collection pipelines, preparing large-scale datasets through cleaning, normalization, and feature engineering to enable robust model training.
+- Collaborate cross-functionally with research teams on model development, demonstrating strong teamwork capabilities mentioned in the job requirements.
+- Build validation frameworks for ML models to ensure continuous performance improvement, similar to the A/B testing mentioned in the job description.
 
 **Data Engineer @ FPT Software Company (Feburary 2022 - January 2023)**
 - Implement SQL Server database architecture following Software Requirement Specification (SRS) and Mockup from Business analysis
