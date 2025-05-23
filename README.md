@@ -9,7 +9,6 @@
 - **Project Management**: Agile (Scrum), Technical Writing, Publication
 
 ## Education
-- M.S , Computational Engineering | Vietnamese German University, Vietnam (_Oct 2026_)
 - B.S., Computer Science and Engineering | Vietnamese German Univeristy, Vietnam (_Juli 2023_)
 
 ## Work Experience
@@ -92,5 +91,4 @@
 3. **(UNDER REVIEW)** Ngo Phuc Linh, **Pham Viet Hoang**, Bui Ngoc Long, Vo Bich Hien, Thirumalaisamy P. Velavan, Tran Duc
 Khanh. Use of low-cost drones to map arbovirus vector habitats with multispectral aerial imagery, 14 February 2025
 4. **(ON PROGRESS)** **Pham Viet Hoang**, Nguyen Trung Dang Khuong, Thirumalaisamy P. Velavan, Tran Duc Khanh. Neural
-parameters calibration for Dengue transmission modeling with real epidemic dataset from Colombia, Peru, and Puerto Rico, 08 April
-2025
+parameters calibration for Dengue Outbreak Forecasting, 08 April 2025
